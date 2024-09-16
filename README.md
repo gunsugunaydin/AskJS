@@ -1,21 +1,35 @@
 # AskJS
 
-**AskJS** is a fun interactive web project where users can interact with buttons and see dynamic responses. This project demonstrates basic JavaScript event handling, CSS styling, and HTML structure.
+This repository contains two fun and interactive web projects that showcase basic JavaScript event handling, CSS styling, and HTML structure. Both projects are designed to provide engaging user experiences through dynamic interactions.
 
-## Project Overview
+## Project 1: AskJS_01
 
 ![Ekran-Kaydı-2024-09-16-233519](https://github.com/user-attachments/assets/ff7d5f66-a521-482f-b88b-005e31570220)
 AskJS_01 File Overview
 
+### Features
+
+- **Interactive Buttons**: 
+  - **Yes Button**: Changes color, initiates dynamic background color changes, and displays a celebratory gif.
+  - **Lie Button**: Changes color, stops background color changes, and shows a playful gif.
+  - **No Button**: Moves randomly when hovered over, creating an engaging user experience.
+
+- **Dynamic Background Changes**: Background color alternates every 0.975 seconds when the "Yes" button is clicked.
+
+## Project 2: AskJS_02
 
 ![Ekran Kaydı 2024-09-16 234021](https://github.com/user-attachments/assets/3fae4122-27ca-4de4-9f9c-5653af4a503d)
 AskJS_02 File Overview
 
-## Features
+### Features
 
-- **Interactive Buttons**: Each button performs a unique action when clicked.
-- **Dynamic Background**: The background color changes periodically when the "Yes" button is clicked.
-- **Responsive Design**: The layout adapts to different screen sizes.
+- **Interactive Buttons**: 
+  - **Yes Button**: Changes color and background, displays a thank you message, and shows a playful gif.
+  - **No Button**: Moves randomly when hovered over, creating an engaging user experience.
+
+- **Dynamic Visual Effects**: The background and button styles change based on user interaction.
+
+- **Shining Text Effect**: The question text gets a glowing effect when the "Yes" button is clicked.
 
 ## Technologies
 
