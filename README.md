@@ -8,7 +8,9 @@ The purpose of this project is to provide a new and playful way to engage with y
 
 ## Project 1: AskJS_01
 
-![Ekran-Kaydı-2024-09-16-233519](https://github.com/user-attachments/assets/ff7d5f66-a521-482f-b88b-005e31570220)
+![Ekran-Kaydı-2024-09-17-014237](https://github.com/user-attachments/assets/8c3bed2e-ea0b-4b60-a353-9b705040cd28)
+
+
 AskJS_01 File Overview
 
 ### Features
@@ -22,7 +24,9 @@ AskJS_01 File Overview
 
 ## Project 2: AskJS_02
 
-![Ekran Kaydı 2024-09-16 234021](https://github.com/user-attachments/assets/3fae4122-27ca-4de4-9f9c-5653af4a503d)
+![Ekran-Kaydı-2024-09-17-013843](https://github.com/user-attachments/assets/5d0cdaed-c505-4875-918b-3c5ac0dc358c)
+
+
 AskJS_02 File Overview
 
 ### Features
