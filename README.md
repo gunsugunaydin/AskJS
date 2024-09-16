@@ -47,7 +47,7 @@ AskJS_02 File Overview
    ```bash
    cd askjs
     ```
-3. Open index.html in a Web Browser Simply open the index.html file with a web browser to see the project in action.
+3. Open `index.html` in a Web Browser Simply open the `index.html` file with a web browser to see the project in action.
 
 ## File Structure
 
