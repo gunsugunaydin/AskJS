@@ -1,4 +1,4 @@
-# AskJS  <img src="https://i.pinimg.com/originals/2f/82/6d/2f826d33bc7dc9c498b96d391b397eca.gif" alt="Questioning" width="50" height="50">
+# AskJS  <img src="https://i.pinimg.com/originals/2f/82/6d/2f826d33bc7dc9c498b96d391b397eca.gif" alt="Questioning" width="40" height="40">
 
 This repository contains two fun and interactive web projects that showcase basic JavaScript event handling, CSS styling, and HTML structure. Both projects are designed to provide engaging user experiences through dynamic interactions.
 
