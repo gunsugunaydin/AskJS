@@ -1,4 +1,4 @@
-# AskJS  <img src="https://i.pinimg.com/originals/be/4f/7d/be4f7d65721e69cf855c5b8b5ec947f1.gif" alt="Questioning" width="50" height="50">
+# AskJS  <img src="https://i.pinimg.com/originals/2f/82/6d/2f826d33bc7dc9c498b96d391b397eca.gif" alt="Questioning" width="50" height="50">
 
 This repository contains two fun and interactive web projects that showcase basic JavaScript event handling, CSS styling, and HTML structure. Both projects are designed to provide engaging user experiences through dynamic interactions.
 
@@ -59,7 +59,7 @@ AskJS_02 File Overview
 - `style.css`: The CSS file for styling the page and its elements.
 - `index.js`: The JavaScript file implementing the interactive features and behaviors.
 
-I developed my first JavaScript project with a meaningful purpose 😌👍🏻, and I hope you enjoy it. If you encounter any issues or have feedback, please feel free to contact me. And don't hesitate to say that the button is 'buttoning'—because it is!
+<img src="https://i.pinimg.com/originals/98/c2/0b/98c20bd0f18fecf02f2be7fcc063d83d.gif" alt="Throwing Flower" width="50" height="50"> I developed my first JavaScript project with a meaningful purpose 😌👍🏻, and I hope you enjoy it. If you encounter any issues or have feedback, please feel free to contact me. And don't hesitate to say that the button is 'buttoning'—because it is!
 
 - **Email**: [gunsugunay98@gmail.com](mailto:gunsugunay98@gmail.com)
 - **LinkedIn**: [linkedin.com/in/gunsugunaydin](https://www.linkedin.com/in/gunsugunaydin/)
