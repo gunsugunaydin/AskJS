@@ -15,7 +15,7 @@ AskJS_01 File Overview
 
 - **Interactive Buttons**: 
   - **Yes Button**: Changes color, initiates dynamic background color changes, and displays a celebratory gif.
-  - **Lie Button**: Changes color, stops background color changes, and shows a playful gif.
+  - **We'll See Button**: Changes color, stops background color changes, and shows a playful gif.
   - **No Button**: Moves randomly when hovered over, creating an engaging user experience.
 
 - **Dynamic Background Changes**: Background color alternates every 0.975 seconds when the "Yes" button is clicked.
@@ -58,6 +58,8 @@ AskJS_02 File Overview
 - `index.html`: The main HTML file containing the structure and content of the project.
 - `style.css`: The CSS file for styling the page and its elements.
 - `index.js`: The JavaScript file implementing the interactive features and behaviors.
+
+I developed my first JavaScript project with a meaningful purpose 😌👍🏻, and I hope you enjoy it. If you encounter any issues or have feedback, please feel free to contact me. And don't hesitate to say that the button is 'buttoning'—because it is!
 
 - **Email**: [gunsugunay98@gmail.com](mailto:gunsugunay98@gmail.com)
 - **LinkedIn**: [linkedin.com/in/gunsugunaydin](https://www.linkedin.com/in/gunsugunaydin/)
