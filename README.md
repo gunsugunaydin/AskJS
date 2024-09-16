@@ -2,6 +2,10 @@
 
 This repository contains two fun and interactive web projects that showcase basic JavaScript event handling, CSS styling, and HTML structure. Both projects are designed to provide engaging user experiences through dynamic interactions.
 
+## Purpose and Roadmap
+
+The purpose of this project is to provide a new and playful way to engage with your loved ones. It aims to offer a guide on how to create fun interactions. If you find yourself wondering how to entertain or tease someone each month, this project provides a simple and intuitive UI. You can customize it by changing names, colors, and GIFs to create unique interactions. For example, Project 2 was created by modifying Project 1 slightly. In the future, consider adding new versions of this JS project that include a new question each month for your loved ones. 
+
 ## Project 1: AskJS_01
 
 ![Ekran-Kaydı-2024-09-16-233519](https://github.com/user-attachments/assets/ff7d5f66-a521-482f-b88b-005e31570220)
