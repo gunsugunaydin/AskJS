@@ -4,10 +4,12 @@
 
 ## Project Overview
 
-The AskJS project features three interactive buttons with specific behaviors:
-- **Yes**: Turns the button pink, displays a celebratory GIF, and starts a background color-changing effect.
-- **No**: Moves randomly within the container when hovered over.
-- **We'll see**: Stops the background color-changing effect, turns the button pink, and shows a different GIF.
+![Ekran-Kaydı-2024-09-16-233519](https://github.com/user-attachments/assets/ff7d5f66-a521-482f-b88b-005e31570220)
+AskJS_01 File Overview
+
+
+![Ekran Kaydı 2024-09-16 234021](https://github.com/user-attachments/assets/3fae4122-27ca-4de4-9f9c-5653af4a503d)
+AskJS_02 File Overview
 
 ## Features
 
