@@ -24,7 +24,7 @@ AskJS_01 File Overview
 
 ## Project 2: AskJS_02
 
-![Ekran-Kaydı-2024-09-17-013843](https://github.com/user-attachments/assets/5d0cdaed-c505-4875-918b-3c5ac0dc358c)
+![Ekran-Kaydı-2024-09-17-165943](https://github.com/user-attachments/assets/1c5939ac-9079-42b2-b51e-73a359e43ddd)
 
 
 AskJS_02 File Overview
