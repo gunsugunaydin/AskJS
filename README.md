@@ -57,7 +57,8 @@ AskJS_02 File Overview
     ```
 3. Open `index.html` in a Web Browser Simply open the `index.html` file with a web browser to see the project in action.
 
-- Alternatively, you can open the repository directly in VS Code using the following trick: simply prepend `https://vscode.dev/` to the repository URL. For example:
+
+Alternatively, you can open the repository directly in VS Code using the following trick: simply prepend `https://vscode.dev/` to the repository URL. For example:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="Waving Hand" width="18" height="18">  https://vscode.dev/github.com/gunsugunaydin/AskJS
 
