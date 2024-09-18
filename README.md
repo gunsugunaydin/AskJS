@@ -56,9 +56,7 @@ AskJS_02 File Overview
    cd askjs
     ```
 3. Open `index.html` in a Web Browser Simply open the `index.html` file with a web browser to see the project in action.
-
-
-
+   
     **Alternatively, Open the Repository in VS Code**
     You can directly open the repository in VS Code using the following method: simply prepend https://vscode.dev/ to the repository URL. For example:
     
