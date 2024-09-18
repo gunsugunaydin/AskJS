@@ -4,7 +4,7 @@ This repository contains two fun and interactive web projects that showcase basi
 
 ## Purpose and Roadmap
 
-The purpose of this project is to provide a new and playful way to engage with your loved ones. If you're looking for a fun way to entertain or surprise someone each month, the project provides a flexible structure where you can easily customize elements like texts, colors, and GIFs directly in the code. For example, project 2 was created by making small modifications to project 1. In the future, consider adding new versions of this JS project that include ✨a new question each month✨ for your special ones. 
+The purpose of this project is to provide a new and playful way to engage with your loved ones. If you're looking for a fun way to entertain or surprise someone each month, the project provides a flexible structure where you can easily customize elements like texts, colors, and GIFs directly in the code. For instance, project 2 was created by making small modifications to project 1. In the future, consider adding new versions of this JS project that include ✨a new question each month✨ for your special ones. 
 
 ## Project 1: AskJS_01
 
@@ -56,6 +56,11 @@ AskJS_02 File Overview
    cd askjs
     ```
 3. Open `index.html` in a Web Browser Simply open the `index.html` file with a web browser to see the project in action.
+
+- Alternatively, you can open the repository directly in VS Code using the following trick: simply prepend `https://vscode.dev/` to the repository URL. For example:
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="Waving Hand" width="18" height="18">  https://vscode.dev/github.com/gunsugunaydin/AskJS
+
 
 ## File Structure
 
