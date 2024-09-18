@@ -4,7 +4,7 @@ This repository contains two fun and interactive web projects that showcase basi
 
 ## Purpose and Roadmap
 
-The purpose of this project is to provide a new and playful way to engage with your loved ones. If you find yourself wondering how to entertain or tease someone each month, this project provides a simple and intuitive UI. You can customize it by changing names, colors, and GIFs to create unique interactions. For example, project 2 was created by modifying project 1 slightly. In the future, consider adding new versions of this JS project that include ✨a new question each month✨ for your loved ones. 
+The purpose of this project is to provide a new and playful way to engage with your loved ones. If you're looking for a fun way to entertain or surprise someone each month, the project provides a flexible structure where you can easily customize elements like texts, colors, and GIFs directly in the code. For example, project 2 was created by making small modifications to project 1. In the future, consider adding new versions of this JS project that include ✨a new question each month✨ for your special ones. 
 
 ## Project 1: AskJS_01
 
