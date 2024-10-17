@@ -1,4 +1,4 @@
-# AskJS <img src="https://media.tenor.com/LBFqyVANEtkAAAAi/emm-thinking.gif" alt="Questioning" width="50" height="50">
+# AskJS <img src="https://media.tenor.com/LBFqyVANEtkAAAAi/emm-thinking.gif" alt="Questioning Gif" width="50" height="50">
 
 This repository contains two fun and interactive web projects that showcase basic JavaScript event handling, CSS styling, and HTML structure. Both projects are designed to provide engaging user experiences through dynamic interactions.
 
@@ -59,7 +59,7 @@ AskJS_02 File Overview
    
 4. Alternatively, you can open the repository directly in VS Code using the following trick: simply prepend https://vscode.dev/ to the repository URL. For example:
     
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="Waving Hand" width="18" height="18">  https://vscode.dev/github.com/gunsugunaydin/AskJS
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="VS Code Symbol Img." width="18" height="18">  https://vscode.dev/github.com/gunsugunaydin/AskJS
 
 
 ## File Structure
@@ -68,7 +68,7 @@ AskJS_02 File Overview
 - `style.css`: The CSS file for styling the page and its elements.
 - `index.js`: The JavaScript file implementing the interactive features and behaviors.
 
-<img src="https://media.tenor.com/_4kl3WUiiQUAAAAi/peach-cat.gif" alt="Throwing Flower" width="50" height="50"> I developed my first JavaScript project with a meaningful purpose 😌👍🏻, and I hope you enjoy it. If you encounter any issues or have feedback, please feel free to contact me. And don't hesitate to say that the button is 'buttoning'—because it is!
+<img src="https://media.tenor.com/_4kl3WUiiQUAAAAi/peach-cat.gif" alt="Throwing Flower Gif" width="50" height="50"> I developed my first JavaScript project with a meaningful purpose 😌👍🏻, and I hope you enjoy it. If you encounter any issues or have feedback, please feel free to contact me. And don't hesitate to say that the button is 'buttoning'—because it is!
 
 - **Email**: [gunsugunay98@gmail.com](mailto:gunsugunay98@gmail.com)
 - **LinkedIn**: [linkedin.com/in/gunsugunaydin](https://www.linkedin.com/in/gunsugunaydin/)
