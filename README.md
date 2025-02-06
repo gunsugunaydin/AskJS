@@ -68,6 +68,8 @@ AskJS_02 File Overview
 - `style.css`: The CSS file for styling the page and its elements.
 - `index.js`: The JavaScript file implementing the interactive features and behaviors.
 
+<br>
+
 <img src="https://media.tenor.com/_4kl3WUiiQUAAAAi/peach-cat.gif" alt="Throwing Flower Gif" width="50" height="50"> I developed my first JavaScript project with a meaningful purpose 😌👍🏻, and I hope you enjoy it. If you encounter any issues or have feedback, please feel free to contact me. And don't hesitate to say that the button is 'buttoning'—because it is!
 
 - **Email**: [gunsugunay98@gmail.com](mailto:gunsugunay98@gmail.com)
